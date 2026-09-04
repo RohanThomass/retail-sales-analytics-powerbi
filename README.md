@@ -211,21 +211,7 @@ The project simulates the type of analysis that can support retail teams with:
 
 ## 👤 Author
 
-**[Your Name]**
+**Rohan Battepati**
 
 Data Analytics | SQL | Python | Excel | Power BI
 
-```
-
-Then click **Commit changes**.
-
-### After that
-
-Your GitHub project will have the core structure recruiters expect:
-
-**Code → Data → SQL → Excel → Documentation**
-
-Then we'll add the **dashboard screenshot**, followed by the **PBIX**, and finally make the Power BI dashboard publicly accessible.
-
-Tell me **"README done"** when you've committed it.
-```
