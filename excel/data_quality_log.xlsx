@@ -1,0 +1,13 @@
+| Check                      | Expected | Actual | Status | Action |
+| -------------------------- | -------: | -----: | ------ | ------ |
+| Total rows                 |   12,000 |        |        |        |
+| Duplicate order IDs        |        0 |        |        |        |
+| Missing customer IDs       |        0 |        |        |        |
+| Missing payment methods    |        0 |        |        |        |
+| Invalid quantities         |        0 |        |        |        |
+| Invalid discounts          |        0 |        |        |        |
+| Invalid unit prices        |        0 |        |        |        |
+| Invalid revenue            |        0 |        |        |        |
+| Invalid profit             |        0 |        |        |        |
+| Revenue calculation errors |        0 |        |        |        |
+| Profit calculation errors  |        0 |        |        |        |
